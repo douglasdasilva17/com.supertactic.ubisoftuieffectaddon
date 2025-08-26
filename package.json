@@ -1,7 +1,7 @@
 {
   "name": "com.supertactic.ubisoftuieffectaddon",
   "displayName": "Ubisoft UI Effect Add-on",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An add-on for Supertactic UI Effects that replicates Ubisoft-style hover and selection effects, providing smooth and responsive UI feedback.",
   "unity": "2022.3",
   "dependencies": {
