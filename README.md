@@ -21,7 +21,7 @@ It enhances your UI interactions by providing smooth, responsive visual feedback
 2. Add the following line inside the `dependencies` section:  
 
 ```json
-"com.supertactic.ubisoftuieffectaddon": "0.0.1"
+"com.supertactic.ubisoftuieffectaddon": "0.0.2"
 ````
 
 ### Using Package Manager GUI
