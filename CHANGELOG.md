@@ -9,3 +9,4 @@
 ## [0.0.3] - 2025-08-26
 ### Updated
 - Updated dependencies in package.json: virtualCursor now requires version 0.0.3
+- Updated dependencies in package.json: remove com.unity.ugui and com.unity.inputsystem
