@@ -1,12 +1,14 @@
 {
   "name": "com.supertactic.ubisoftuieffectaddon",
   "displayName": "Ubisoft UI Effect Add-on",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An add-on for Supertactic UI Effects that replicates Ubisoft-style hover and selection effects, providing smooth and responsive UI feedback.",
   "unity": "2022.3",
   "dependencies": {
-    "com.supertactic.virtualcursor": "0.0.1",
-    "com.supertactic.uieffects": "0.0.1"
+    "com.supertactic.ugui": "1.0.0",
+    "com.supertactic.inputsystem": "1.14.2",
+    "com.supertactic.virtualcursor": "0.0.2",
+    "com.supertactic.uieffects": "0.0.2"
   },
   "author": {
     "name": "Supertactic Studio",
@@ -24,9 +26,6 @@
   ],
   "samples": [
     {
-      "displayName": "Ubisoft UI Effect Sample",
-      "description": "A sample scene showcasing the Ubisoft-style UI hover and selection effects included in this add-on.",
-      "path": "Samples~/UbisoftUIEffectSample"
     }
   ]
 }
