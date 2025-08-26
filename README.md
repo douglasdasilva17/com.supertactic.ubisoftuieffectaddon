@@ -16,13 +16,16 @@ It enhances your UI interactions by providing smooth, responsive visual feedback
 
 ## How to Install
 
-### Using Package Manager (manifest.json)
-1. Open your project's `manifest.json` file.  
-2. Add the following line inside the `dependencies` section:  
+1. In the top menu, go to **Window > Package Manager**.  
+2. Click **+ > Add package from git URL...**  
+3. Paste the following line and click **Add**:  
 
 ```json
-"com.supertactic.ubisoftuieffectaddon": "0.0.3"
-````
+https://github.com/douglasdasilva17/com.supertactic.ubisoftuieffectaddon.git
+
+```
+
+---
 
 ### Using Package Manager GUI
 
