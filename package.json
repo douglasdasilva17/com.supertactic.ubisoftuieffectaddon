@@ -24,6 +24,9 @@
   ],
   "samples": [
     {
+      "displayName": "Ubisoft UI Effect Sample",
+      "description": "A sample scene demonstrating hover effects applied to UI buttons.",
+      "path": "Samples~/UbisoftUIEffectSample"
     }
   ]
 }
