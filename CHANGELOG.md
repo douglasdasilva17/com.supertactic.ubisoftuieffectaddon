@@ -5,3 +5,7 @@
 ## [0.0.2] - 2025-08-25
 ### Added
 - Added prefab variants to avoid invalid references
+
+## [0.0.3] - 2025-08-26
+### Updated
+- Updated dependencies in package.json: virtualCursor now requires version 0.0.3
