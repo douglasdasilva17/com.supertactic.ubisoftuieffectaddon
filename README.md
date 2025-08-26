@@ -14,25 +14,17 @@ It enhances your UI interactions by providing smooth, responsive visual feedback
 
 ---
 
-## How to Install
+## Installation
 
-1. In the top menu, go to **Window > Package Manager**.  
-2. Click **+ > Add package from git URL...**  
-3. Paste the following line and click **Add**:  
+1. Make sure you are using **Unity 2022.3 or later**.
+
+2. Open your project's `manifest.json` file and add the following entries inside the `dependencies` section:
 
 ```json
-https://github.com/douglasdasilva17/com.supertactic.ubisoftuieffectaddon.git
-
+"com.supertactic.uieffects": "0.0.2",
+"com.supertactic.virtualcursor": "0.0.4",
+"com.supertactic.ubisoftuieffectaddon": "0.0.5"
 ```
-
----
-
-### Using Package Manager GUI
-
-1. Open **Window > Package Manager** in Unity.
-2. Click the **+** icon and select **Add package from git URL...**
-3. Enter the Git URL for this package and click **Add**.
-
 ---
 
 ## How to Use
